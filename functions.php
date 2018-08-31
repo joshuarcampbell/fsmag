@@ -463,4 +463,4 @@ endif;
 /**
  * Require init.
 */
-require  trailingslashit( get_template_directory() ).'sparklethemes/init.php';
+require  trailingslashit( get_template_directory() ).'fsthemes/init.php';

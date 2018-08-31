@@ -60,7 +60,7 @@ msgstr[1] ""
 msgid "Comments are closed."
 msgstr ""
 
-#: footer.php:39 sparklethemes/customizer/customizer.php:284
+#: footer.php:39 fsthemes/customizer/customizer.php:284
 msgid "Facebook"
 msgstr ""
 
@@ -68,7 +68,7 @@ msgstr ""
 msgid "Like us on facebook"
 msgstr ""
 
-#: footer.php:49 sparklethemes/customizer/customizer.php:289
+#: footer.php:49 fsthemes/customizer/customizer.php:289
 msgid "Twitter"
 msgstr ""
 
@@ -92,7 +92,7 @@ msgstr ""
 msgid "Subscribe us on youtube"
 msgstr ""
 
-#: footer.php:79 sparklethemes/customizer/customizer.php:304
+#: footer.php:79 fsthemes/customizer/customizer.php:304
 msgid "Instagram"
 msgstr ""
 
@@ -144,15 +144,15 @@ msgid ""
 "added widgets"
 msgstr ""
 
-#: functions.php:155 sparklethemes/customizer/customizer.php:145
+#: functions.php:155 fsthemes/customizer/customizer.php:145
 msgid "Home 1 - Full Width Section"
 msgstr ""
 
-#: functions.php:165 sparklethemes/customizer/customizer.php:155
+#: functions.php:165 fsthemes/customizer/customizer.php:155
 msgid "Home 2 - 3/1 Main Block Section"
 msgstr ""
 
-#: functions.php:175 sparklethemes/customizer/customizer.php:165
+#: functions.php:175 fsthemes/customizer/customizer.php:165
 msgid "Home 3 - Full Width Section"
 msgstr ""
 
@@ -176,12 +176,12 @@ msgstr ""
 msgid "Footer 4 - 1/4 Widget Area"
 msgstr ""
 
-#: functions.php:317 sparklethemes/widget-fields.php:235
+#: functions.php:317 fsthemes/widget-fields.php:235
 msgid "Upload"
 msgstr ""
 
-#: functions.php:318 sparklethemes/widget-fields.php:237
-#: sparklethemes/widget-fields.php:245
+#: functions.php:318 fsthemes/widget-fields.php:237
+#: fsthemes/widget-fields.php:245
 msgid "Remove"
 msgstr ""
 
@@ -214,117 +214,117 @@ msgstr ""
 msgid "fsmag - FrontPage"
 msgstr ""
 
-#: sparklethemes/functions.php:68
+#: fsthemes/functions.php:68
 msgid "Copyright  &copy; "
 msgstr ""
 
-#: sparklethemes/functions.php:69
+#: fsthemes/functions.php:69
 msgid " Powered "
 msgstr ""
 
-#: sparklethemes/functions.php:69
+#: fsthemes/functions.php:69
 msgid "WordPress"
 msgstr ""
 
-#: sparklethemes/functions.php:261
+#: fsthemes/functions.php:261
 msgid "Display Layout Options"
 msgstr ""
 
-#: sparklethemes/functions.php:273
+#: fsthemes/functions.php:273
 msgid "Left Sidebar"
 msgstr ""
 
-#: sparklethemes/functions.php:278
+#: fsthemes/functions.php:278
 msgid "Right (Default)"
 msgstr ""
 
-#: sparklethemes/functions.php:283
+#: fsthemes/functions.php:283
 msgid "Full width"
 msgstr ""
 
-#: sparklethemes/tgm.php:22
+#: fsthemes/tgm.php:22
 msgid "Share Buttons by AddThis"
 msgstr ""
 
-#: sparklethemes/tgm.php:27
+#: fsthemes/tgm.php:27
 msgid "Social Media Share Buttons | MashShare"
 msgstr ""
 
-#: sparklethemes/tgm.php:32
+#: fsthemes/tgm.php:32
 msgid "Contact Form 7"
 msgstr ""
 
-#: sparklethemes/tgm.php:37
+#: fsthemes/tgm.php:37
 msgid "Regenerate Thumbnails"
 msgstr ""
 
-#: sparklethemes/tgm.php:42
+#: fsthemes/tgm.php:42
 msgid "WooCommerce"
 msgstr ""
 
-#: sparklethemes/widget-fields.php:15
+#: fsthemes/widget-fields.php:15
 msgid "Select Categories"
 msgstr ""
 
-#: sparklethemes/widget-fields.php:231
+#: fsthemes/widget-fields.php:231
 msgid "No file chosen"
 msgstr ""
 
-#: sparklethemes/widget-fields.php:240
+#: fsthemes/widget-fields.php:240
 msgid "Upgrade your version of WordPress for full media support."
 msgstr ""
 
-#: sparklethemes/widget-fields.php:255
+#: fsthemes/widget-fields.php:255
 msgid "View File"
 msgstr ""
 
 #: template-parts/content-author.php:35 template-parts/content-search.php:34
 #: template-parts/content.php:35
-#: sparklethemes/widget/widget-alternative-posts.php:147
-#: sparklethemes/widget/widget-grid-posts.php:130
-#: sparklethemes/widget/widget-large-single-with-small.php:137
-#: sparklethemes/widget/widget-large-single-with-small.php:165
-#: sparklethemes/widget/widget-large-with-small.php:139
-#: sparklethemes/widget/widget-large-with-small.php:167
-#: sparklethemes/widget/widget-recent-random.php:105
-#: sparklethemes/widget/widget-tabbed.php:148
-#: sparklethemes/widget/widget-timeline-posts.php:125
+#: fsthemes/widget/widget-alternative-posts.php:147
+#: fsthemes/widget/widget-grid-posts.php:130
+#: fsthemes/widget/widget-large-single-with-small.php:137
+#: fsthemes/widget/widget-large-single-with-small.php:165
+#: fsthemes/widget/widget-large-with-small.php:139
+#: fsthemes/widget/widget-large-with-small.php:167
+#: fsthemes/widget/widget-recent-random.php:105
+#: fsthemes/widget/widget-tabbed.php:148
+#: fsthemes/widget/widget-timeline-posts.php:125
 msgid "No comment"
 msgstr ""
 
 #: template-parts/content-author.php:35 template-parts/content-search.php:34
-#: template-parts/content.php:35 sparklethemes/core/template-tags.php:49
-#: sparklethemes/widget/widget-alternative-posts.php:147
-#: sparklethemes/widget/widget-grid-posts.php:130
-#: sparklethemes/widget/widget-large-single-with-small.php:137
-#: sparklethemes/widget/widget-large-single-with-small.php:165
-#: sparklethemes/widget/widget-large-with-small.php:139
-#: sparklethemes/widget/widget-large-with-small.php:167
-#: sparklethemes/widget/widget-recent-random.php:105
-#: sparklethemes/widget/widget-tabbed.php:148
-#: sparklethemes/widget/widget-timeline-posts.php:125
+#: template-parts/content.php:35 fsthemes/core/template-tags.php:49
+#: fsthemes/widget/widget-alternative-posts.php:147
+#: fsthemes/widget/widget-grid-posts.php:130
+#: fsthemes/widget/widget-large-single-with-small.php:137
+#: fsthemes/widget/widget-large-single-with-small.php:165
+#: fsthemes/widget/widget-large-with-small.php:139
+#: fsthemes/widget/widget-large-with-small.php:167
+#: fsthemes/widget/widget-recent-random.php:105
+#: fsthemes/widget/widget-tabbed.php:148
+#: fsthemes/widget/widget-timeline-posts.php:125
 msgid "1 Comment"
 msgstr ""
 
 #: template-parts/content-author.php:35 template-parts/content-search.php:34
 #: template-parts/content.php:35
-#: sparklethemes/widget/widget-alternative-posts.php:147
-#: sparklethemes/widget/widget-grid-posts.php:130
-#: sparklethemes/widget/widget-large-single-with-small.php:137
-#: sparklethemes/widget/widget-large-single-with-small.php:165
-#: sparklethemes/widget/widget-large-with-small.php:139
-#: sparklethemes/widget/widget-large-with-small.php:167
-#: sparklethemes/widget/widget-recent-random.php:105
-#: sparklethemes/widget/widget-tabbed.php:148
-#: sparklethemes/widget/widget-timeline-posts.php:125
+#: fsthemes/widget/widget-alternative-posts.php:147
+#: fsthemes/widget/widget-grid-posts.php:130
+#: fsthemes/widget/widget-large-single-with-small.php:137
+#: fsthemes/widget/widget-large-single-with-small.php:165
+#: fsthemes/widget/widget-large-with-small.php:139
+#: fsthemes/widget/widget-large-with-small.php:167
+#: fsthemes/widget/widget-recent-random.php:105
+#: fsthemes/widget/widget-tabbed.php:148
+#: fsthemes/widget/widget-timeline-posts.php:125
 msgid "% Comments"
 msgstr ""
 
 #: template-parts/content-author.php:39 template-parts/content-search.php:38
 #: template-parts/content.php:39
-#: sparklethemes/widget/widget-alternative-posts.php:151
-#: sparklethemes/widget/widget-large-single-with-small.php:141
-#: sparklethemes/widget/widget-large-with-small.php:143
+#: fsthemes/widget/widget-alternative-posts.php:151
+#: fsthemes/widget/widget-large-single-with-small.php:141
+#: fsthemes/widget/widget-large-with-small.php:143
 msgid "Continue Reading"
 msgstr ""
 
@@ -357,7 +357,7 @@ msgstr ""
 
 #. %s: Name of current post. Only visible to screen readers
 #. %s: Name of current post. Only visible to screen readers
-#: template-parts/content-page.php:43 sparklethemes/core/template-tags.php:111
+#: template-parts/content-page.php:43 fsthemes/core/template-tags.php:111
 #, php-format
 msgid "Edit <span class=\"screen-reader-text\">%s</span>"
 msgstr ""
@@ -376,400 +376,400 @@ msgstr ""
 msgid "News Reporter"
 msgstr ""
 
-#: sparklethemes/core/template-tags.php:29
+#: fsthemes/core/template-tags.php:29
 #, php-format
 msgctxt "post date"
 msgid "On %s"
 msgstr ""
 
 #. %s: post author.
-#: sparklethemes/core/template-tags.php:35
+#: fsthemes/core/template-tags.php:35
 #, php-format
 msgctxt "post author"
 msgid "by %s"
 msgstr ""
 
-#: sparklethemes/core/template-tags.php:44
+#: fsthemes/core/template-tags.php:44
 msgid "No Comment"
 msgstr ""
 
 #. %d: number of comments
-#: sparklethemes/core/template-tags.php:47
+#: fsthemes/core/template-tags.php:47
 #, php-format
 msgid "%d Comments."
 msgstr ""
 
 #. used between list items, there is a space after the comma
-#: sparklethemes/core/template-tags.php:74
+#: fsthemes/core/template-tags.php:74
 msgid ", "
 msgstr ""
 
 #. 1: list of categories.
-#: sparklethemes/core/template-tags.php:77
+#: fsthemes/core/template-tags.php:77
 #, php-format
 msgid "Posted in %1$s"
 msgstr ""
 
 #. used between list items, there is a space after the comma
-#: sparklethemes/core/template-tags.php:81
+#: fsthemes/core/template-tags.php:81
 msgctxt "list item separator"
 msgid ", "
 msgstr ""
 
 #. 1: list of tags.
-#: sparklethemes/core/template-tags.php:84
+#: fsthemes/core/template-tags.php:84
 #, php-format
 msgid "Tagged %1$s"
 msgstr ""
 
 #. %s: post title
-#: sparklethemes/core/template-tags.php:94
+#: fsthemes/core/template-tags.php:94
 #, php-format
 msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:21
+#: fsthemes/customizer/customizer.php:21
 msgid "General Settings"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:35
+#: fsthemes/customizer/customizer.php:35
 msgid "Important Links"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:46
-#: sparklethemes/admin/about-theme/fsmag-about.php:197
-#: sparklethemes/admin/about-theme/fsmag-about.php:199
+#: fsthemes/customizer/customizer.php:46
+#: fsthemes/admin/about-theme/fsmag-about.php:197
+#: fsthemes/admin/about-theme/fsmag-about.php:199
 msgid "Documentation"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:46
+#: fsthemes/customizer/customizer.php:46
 msgid "Live Demo"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:46
+#: fsthemes/customizer/customizer.php:46
 msgid "Support Forum"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:46
+#: fsthemes/customizer/customizer.php:46
 msgid "Like Us in Facebook"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:55
+#: fsthemes/customizer/customizer.php:55
 msgid "Themes Colors Settings"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:56
+#: fsthemes/customizer/customizer.php:56
 msgid "Change the Colors from here as you want"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:66
+#: fsthemes/customizer/customizer.php:66
 msgid "Category Color Settings"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:106
+#: fsthemes/customizer/customizer.php:106
 msgid "Breaking News Settings"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:116
+#: fsthemes/customizer/customizer.php:116
 msgid "Breaking News Section"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:117
-#: sparklethemes/customizer/customizer.php:273
+#: fsthemes/customizer/customizer.php:117
+#: fsthemes/customizer/customizer.php:273
 msgid "Choose the option as you want"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:121
-#: sparklethemes/customizer/customizer.php:277
-#: sparklethemes/customizer/customizer.php:402
+#: fsthemes/customizer/customizer.php:121
+#: fsthemes/customizer/customizer.php:277
+#: fsthemes/customizer/customizer.php:402
 msgid "Enable"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:122
-#: sparklethemes/customizer/customizer.php:278
-#: sparklethemes/customizer/customizer.php:403
+#: fsthemes/customizer/customizer.php:122
+#: fsthemes/customizer/customizer.php:278
+#: fsthemes/customizer/customizer.php:403
 msgid "Disable"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:134
+#: fsthemes/customizer/customizer.php:134
 msgid "Select Breaking News Category"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:173
+#: fsthemes/customizer/customizer.php:173
 msgid "Change the Design Settings from here as you want"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:175
+#: fsthemes/customizer/customizer.php:175
 msgid "Design Layout Settings"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:184
+#: fsthemes/customizer/customizer.php:184
 msgid "Layout for Pages Only"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:195
+#: fsthemes/customizer/customizer.php:195
 msgid ""
 "Select Layout for Pages. This Layout will be Reflected in all Pages Unless "
 "Unique Layout is set For Specific Page"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:210
+#: fsthemes/customizer/customizer.php:210
 msgid "Layout for Archive Page Only"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:222
+#: fsthemes/customizer/customizer.php:222
 msgid "Select Category Page Layout"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:236
+#: fsthemes/customizer/customizer.php:236
 msgid "Layout for Single Posts Only"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:247
+#: fsthemes/customizer/customizer.php:247
 msgid "Select Layout for Single Posts"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:262
+#: fsthemes/customizer/customizer.php:262
 msgid "Social Media Links Settings"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:272
+#: fsthemes/customizer/customizer.php:272
 msgid "Footer Sociala Media Link"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:294
+#: fsthemes/customizer/customizer.php:294
 msgid "Linkendin"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:299
+#: fsthemes/customizer/customizer.php:299
 msgid "YouTube"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:336
+#: fsthemes/customizer/customizer.php:336
 msgid "Footer Settings"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:344
+#: fsthemes/customizer/customizer.php:344
 msgid "Footer Area Settings"
 msgstr ""
 
-#: sparklethemes/customizer/customizer.php:357
+#: fsthemes/customizer/customizer.php:357
 msgid "Footer Content (Copyright Text)"
 msgstr ""
 
-#: sparklethemes/widget/widget-alternative-posts.php:21
+#: fsthemes/widget/widget-alternative-posts.php:21
 msgctxt "widget name"
 msgid "EMag Alternative Posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-alternative-posts.php:24
+#: fsthemes/widget/widget-alternative-posts.php:24
 msgid "Widget display all posts in alternative layout"
 msgstr ""
 
-#: sparklethemes/widget/widget-alternative-posts.php:51
-#: sparklethemes/widget/widget-grid-posts.php:47
-#: sparklethemes/widget/widget-large-single-with-small.php:47
-#: sparklethemes/widget/widget-large-with-grid.php:47
-#: sparklethemes/widget/widget-large-with-small.php:47
-#: sparklethemes/widget/widget-recent-random.php:33
-#: sparklethemes/widget/widget-timeline-posts.php:47
+#: fsthemes/widget/widget-alternative-posts.php:51
+#: fsthemes/widget/widget-grid-posts.php:47
+#: fsthemes/widget/widget-large-single-with-small.php:47
+#: fsthemes/widget/widget-large-with-grid.php:47
+#: fsthemes/widget/widget-large-with-small.php:47
+#: fsthemes/widget/widget-recent-random.php:33
+#: fsthemes/widget/widget-timeline-posts.php:47
 msgid "Block Title"
 msgstr ""
 
-#: sparklethemes/widget/widget-alternative-posts.php:57
-#: sparklethemes/widget/widget-grid-posts.php:53
-#: sparklethemes/widget/widget-large-single-with-small.php:53
-#: sparklethemes/widget/widget-large-with-grid.php:53
-#: sparklethemes/widget/widget-large-with-small.php:53
-#: sparklethemes/widget/widget-slider-posts.php:47
-#: sparklethemes/widget/widget-timeline-posts.php:54
+#: fsthemes/widget/widget-alternative-posts.php:57
+#: fsthemes/widget/widget-grid-posts.php:53
+#: fsthemes/widget/widget-large-single-with-small.php:53
+#: fsthemes/widget/widget-large-with-grid.php:53
+#: fsthemes/widget/widget-large-with-small.php:53
+#: fsthemes/widget/widget-slider-posts.php:47
+#: fsthemes/widget/widget-timeline-posts.php:54
 msgid "Select Posts Category"
 msgstr ""
 
-#: sparklethemes/widget/widget-alternative-posts.php:64
-#: sparklethemes/widget/widget-grid-posts.php:60
-#: sparklethemes/widget/widget-large-single-with-small.php:60
-#: sparklethemes/widget/widget-large-with-grid.php:60
-#: sparklethemes/widget/widget-large-with-small.php:60
-#: sparklethemes/widget/widget-recent-random.php:46
-#: sparklethemes/widget/widget-slider-posts.php:54
-#: sparklethemes/widget/widget-tabbed.php:70
-#: sparklethemes/widget/widget-timeline-posts.php:68
+#: fsthemes/widget/widget-alternative-posts.php:64
+#: fsthemes/widget/widget-grid-posts.php:60
+#: fsthemes/widget/widget-large-single-with-small.php:60
+#: fsthemes/widget/widget-large-with-grid.php:60
+#: fsthemes/widget/widget-large-with-small.php:60
+#: fsthemes/widget/widget-recent-random.php:46
+#: fsthemes/widget/widget-slider-posts.php:54
+#: fsthemes/widget/widget-tabbed.php:70
+#: fsthemes/widget/widget-timeline-posts.php:68
 msgid "Enter Display Number of Posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-alternative-posts.php:70
-#: sparklethemes/widget/widget-grid-posts.php:66
-#: sparklethemes/widget/widget-large-single-with-small.php:66
-#: sparklethemes/widget/widget-large-with-grid.php:66
-#: sparklethemes/widget/widget-large-with-small.php:66
-#: sparklethemes/widget/widget-recent-random.php:52
-#: sparklethemes/widget/widget-slider-posts.php:60
+#: fsthemes/widget/widget-alternative-posts.php:70
+#: fsthemes/widget/widget-grid-posts.php:66
+#: fsthemes/widget/widget-large-single-with-small.php:66
+#: fsthemes/widget/widget-large-with-grid.php:66
+#: fsthemes/widget/widget-large-with-small.php:66
+#: fsthemes/widget/widget-recent-random.php:52
+#: fsthemes/widget/widget-slider-posts.php:60
 msgid "Info"
 msgstr ""
 
-#: sparklethemes/widget/widget-alternative-posts.php:71
-#: sparklethemes/widget/widget-grid-posts.php:67
-#: sparklethemes/widget/widget-large-single-with-small.php:67
-#: sparklethemes/widget/widget-large-with-grid.php:67
-#: sparklethemes/widget/widget-large-with-small.php:67
-#: sparklethemes/widget/widget-recent-random.php:53
-#: sparklethemes/widget/widget-slider-posts.php:61
+#: fsthemes/widget/widget-alternative-posts.php:71
+#: fsthemes/widget/widget-grid-posts.php:67
+#: fsthemes/widget/widget-large-single-with-small.php:67
+#: fsthemes/widget/widget-large-with-grid.php:67
+#: fsthemes/widget/widget-large-with-small.php:67
+#: fsthemes/widget/widget-recent-random.php:53
+#: fsthemes/widget/widget-slider-posts.php:61
 msgid ""
 "This is the lite version of this widget with basic features. More features "
 "and options are available in the premium version of Editorial Magazine."
 msgstr ""
 
-#: sparklethemes/widget/widget-grid-posts.php:18
+#: fsthemes/widget/widget-grid-posts.php:18
 msgctxt "widget name"
 msgid "EMag Grid Posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-grid-posts.php:21
+#: fsthemes/widget/widget-grid-posts.php:21
 msgid "Widget display all posts in grid layout"
 msgstr ""
 
-#: sparklethemes/widget/widget-large-single-with-small.php:18
+#: fsthemes/widget/widget-large-single-with-small.php:18
 msgctxt "widget name"
 msgid "EMag Large Single & Small Posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-large-single-with-small.php:21
+#: fsthemes/widget/widget-large-single-with-small.php:21
 msgid ""
 "Widget display 1 large single thumbinal image post with multiple small "
 "thumbinal posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-large-with-grid.php:18
+#: fsthemes/widget/widget-large-with-grid.php:18
 msgctxt "widget name"
 msgid "EMag Large With Grid Posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-large-with-grid.php:21
+#: fsthemes/widget/widget-large-with-grid.php:21
 msgid ""
 "Widget display 2 large thumbinal image post with multiple small thumbinal "
 "grid posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-large-with-grid.php:124
+#: fsthemes/widget/widget-large-with-grid.php:124
 msgid "On:"
 msgstr ""
 
-#: sparklethemes/widget/widget-large-with-grid.php:139
-#: sparklethemes/widget/widget-slider-posts.php:120
+#: fsthemes/widget/widget-large-with-grid.php:139
+#: fsthemes/widget/widget-slider-posts.php:120
 msgid "On :"
 msgstr ""
 
-#: sparklethemes/widget/widget-large-with-small.php:18
+#: fsthemes/widget/widget-large-with-small.php:18
 msgctxt "widget name"
 msgid "EMag Large With Small Posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-large-with-small.php:21
+#: fsthemes/widget/widget-large-with-small.php:21
 msgid ""
 "Widget display 1 large thumbinal image post with multiple small thumbinal "
 "posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-recent-random.php:18
+#: fsthemes/widget/widget-recent-random.php:18
 msgctxt "widget name"
 msgid "EMag Recent & Random Posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-recent-random.php:21
+#: fsthemes/widget/widget-recent-random.php:21
 msgid "Widget display random & recent posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-recent-random.php:39
+#: fsthemes/widget/widget-recent-random.php:39
 msgid "Choose Posts Options"
 msgstr ""
 
-#: sparklethemes/widget/widget-slider-posts.php:18
+#: fsthemes/widget/widget-slider-posts.php:18
 msgctxt "widget name"
 msgid "EMag Slider Posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-slider-posts.php:21
+#: fsthemes/widget/widget-slider-posts.php:21
 msgid "Widget display category posts in slider layout"
 msgstr ""
 
-#: sparklethemes/widget/widget-tabbed.php:18
+#: fsthemes/widget/widget-tabbed.php:18
 msgctxt "widget name"
 msgid "EMag Popular / Tags / Comments"
 msgstr ""
 
-#: sparklethemes/widget/widget-tabbed.php:21
+#: fsthemes/widget/widget-tabbed.php:21
 msgid "Widget display popular, recent, comment"
 msgstr ""
 
-#: sparklethemes/widget/widget-tabbed.php:34
+#: fsthemes/widget/widget-tabbed.php:34
 msgid "Checked To Disable Polular Posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-tabbed.php:40
+#: fsthemes/widget/widget-tabbed.php:40
 msgid "Popular Posts Title"
 msgstr ""
 
-#: sparklethemes/widget/widget-tabbed.php:46
+#: fsthemes/widget/widget-tabbed.php:46
 msgid "Checked To Disable Comments"
 msgstr ""
 
-#: sparklethemes/widget/widget-tabbed.php:52
+#: fsthemes/widget/widget-tabbed.php:52
 msgid "Comments Title"
 msgstr ""
 
-#: sparklethemes/widget/widget-tabbed.php:58
+#: fsthemes/widget/widget-tabbed.php:58
 msgid "Checked To Disable Tags"
 msgstr ""
 
-#: sparklethemes/widget/widget-tabbed.php:64
+#: fsthemes/widget/widget-tabbed.php:64
 msgid "Tags Title"
 msgstr ""
 
-#: sparklethemes/widget/widget-tabbed.php:186
+#: fsthemes/widget/widget-tabbed.php:186
 msgid "No comments found."
 msgstr ""
 
-#: sparklethemes/widget/widget-tabbed.php:200
+#: fsthemes/widget/widget-tabbed.php:200
 msgid "No tags created."
 msgstr ""
 
-#: sparklethemes/widget/widget-timeline-posts.php:18
+#: fsthemes/widget/widget-timeline-posts.php:18
 msgctxt "widget name"
 msgid "EMag Timeline Posts"
 msgstr ""
 
-#: sparklethemes/widget/widget-timeline-posts.php:21
+#: fsthemes/widget/widget-timeline-posts.php:21
 msgid "Widget display posts in timeline layout"
 msgstr ""
 
-#: sparklethemes/widget/widget-timeline-posts.php:49
+#: fsthemes/widget/widget-timeline-posts.php:49
 msgid "Enter your block title (Options - leave blank to hide title)"
 msgstr ""
 
-#: sparklethemes/widget/widget-timeline-posts.php:61
+#: fsthemes/widget/widget-timeline-posts.php:61
 msgid "Choose Posts Display Order"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:33
-#: sparklethemes/admin/about-theme/fsmag-about.php:33
-#: sparklethemes/admin/about-theme/fsmag-about.php:108
+#: fsthemes/admin/about-theme/fsmag-about.php:33
+#: fsthemes/admin/about-theme/fsmag-about.php:33
+#: fsthemes/admin/about-theme/fsmag-about.php:108
 msgid "About"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:67
+#: fsthemes/admin/about-theme/fsmag-about.php:67
 msgid "Action failed. Please refresh the page and retry."
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:71
+#: fsthemes/admin/about-theme/fsmag-about.php:71
 msgid "Cheatin&#8217; huh?"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:85
+#: fsthemes/admin/about-theme/fsmag-about.php:85
 msgid "Dismiss"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:86
+#: fsthemes/admin/about-theme/fsmag-about.php:86
 #, php-format
 msgid ""
 "Welcome! Thank you for choosing fsmag! To fully take advantage of the "
@@ -777,248 +777,248 @@ msgid ""
 "page%2$s."
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:88
+#: fsthemes/admin/about-theme/fsmag-about.php:88
 msgid "Get started with fsmag"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:124
-#: sparklethemes/admin/about-theme/fsmag-about.php:187
+#: fsthemes/admin/about-theme/fsmag-about.php:124
+#: fsthemes/admin/about-theme/fsmag-about.php:187
 msgid "View PRO version"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:126
+#: fsthemes/admin/about-theme/fsmag-about.php:126
 msgid "View PRO Demo"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:128
+#: fsthemes/admin/about-theme/fsmag-about.php:128
 msgid "Theme Info"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:130
+#: fsthemes/admin/about-theme/fsmag-about.php:130
 msgid "View Demo"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:133
+#: fsthemes/admin/about-theme/fsmag-about.php:133
 msgid "Rate this theme"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:142
+#: fsthemes/admin/about-theme/fsmag-about.php:142
 msgid "Free Vs Pro"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:146
+#: fsthemes/admin/about-theme/fsmag-about.php:146
 msgid "More Themes"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:150
+#: fsthemes/admin/about-theme/fsmag-about.php:150
 msgid "Changelog"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:185
+#: fsthemes/admin/about-theme/fsmag-about.php:185
 msgid "Need more features ?"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:186
-#: sparklethemes/admin/about-theme/fsmag-about.php:444
+#: fsthemes/admin/about-theme/fsmag-about.php:186
+#: fsthemes/admin/about-theme/fsmag-about.php:444
 msgid "Upgrade to PRO version for more exciting features."
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:191
+#: fsthemes/admin/about-theme/fsmag-about.php:191
 msgid "Have you need customization?"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:192
+#: fsthemes/admin/about-theme/fsmag-about.php:192
 msgid "Please send message with your requirement."
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:193
+#: fsthemes/admin/about-theme/fsmag-about.php:193
 msgid "Customization"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:198
+#: fsthemes/admin/about-theme/fsmag-about.php:198
 msgid "Please view our documentation page to setup the theme."
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:203
+#: fsthemes/admin/about-theme/fsmag-about.php:203
 msgid "Theme Customizer"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:204
+#: fsthemes/admin/about-theme/fsmag-about.php:204
 msgid "All Theme Options are available via Customize screen."
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:205
-#: sparklethemes/admin/about-theme/fsmag-about.php:282
+#: fsthemes/admin/about-theme/fsmag-about.php:205
+#: fsthemes/admin/about-theme/fsmag-about.php:282
 msgid "Customize"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:209
+#: fsthemes/admin/about-theme/fsmag-about.php:209
 msgid "Got theme support question?"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:210
+#: fsthemes/admin/about-theme/fsmag-about.php:210
 msgid "Please put it in our dedicated support forum."
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:211
+#: fsthemes/admin/about-theme/fsmag-about.php:211
 msgid "Support"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:217
-#: sparklethemes/admin/about-theme/fsmag-about.php:225
+#: fsthemes/admin/about-theme/fsmag-about.php:217
+#: fsthemes/admin/about-theme/fsmag-about.php:225
 msgid "Translate"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:221
+#: fsthemes/admin/about-theme/fsmag-about.php:221
 msgid "Click below to translate this theme into your own language."
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:237
+#: fsthemes/admin/about-theme/fsmag-about.php:237
 msgid "Return to Updates"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:237
+#: fsthemes/admin/about-theme/fsmag-about.php:237
 msgid "Return to Dashboard &rarr; Updates"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:240
+#: fsthemes/admin/about-theme/fsmag-about.php:240
 msgid "Go to Dashboard &rarr; Home"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:240
+#: fsthemes/admin/about-theme/fsmag-about.php:240
 msgid "Go to Dashboard"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:280
+#: fsthemes/admin/about-theme/fsmag-about.php:280
 msgid "Active"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:318
+#: fsthemes/admin/about-theme/fsmag-about.php:318
 msgid "Activate"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:327
+#: fsthemes/admin/about-theme/fsmag-about.php:327
 msgid "Install Now"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:330
+#: fsthemes/admin/about-theme/fsmag-about.php:330
 msgid "Live Preview"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:392
+#: fsthemes/admin/about-theme/fsmag-about.php:392
 msgid "View changelog below:"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:449
+#: fsthemes/admin/about-theme/fsmag-about.php:449
 msgid "Features"
 msgstr ""
 
 #. Name of the theme
-#: sparklethemes/admin/about-theme/fsmag-about.php:450
+#: fsthemes/admin/about-theme/fsmag-about.php:450
 msgid "fsmag"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:451
+#: fsthemes/admin/about-theme/fsmag-about.php:451
 msgid "fsmag Pro"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:456
+#: fsthemes/admin/about-theme/fsmag-about.php:456
 msgid "Price"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:457
+#: fsthemes/admin/about-theme/fsmag-about.php:457
 msgid "Free"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:458
+#: fsthemes/admin/about-theme/fsmag-about.php:458
 msgid "$55"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:461
+#: fsthemes/admin/about-theme/fsmag-about.php:461
 msgid "Import Demo Data"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:466
+#: fsthemes/admin/about-theme/fsmag-about.php:466
 msgid "Header Layouts"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:467
+#: fsthemes/admin/about-theme/fsmag-about.php:467
 msgid "1"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:468
+#: fsthemes/admin/about-theme/fsmag-about.php:468
 msgid "4"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:471
+#: fsthemes/admin/about-theme/fsmag-about.php:471
 msgid "Advance Category Page Options"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:476
+#: fsthemes/admin/about-theme/fsmag-about.php:476
 msgid "Advance Post Format Options"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:481
+#: fsthemes/admin/about-theme/fsmag-about.php:481
 msgid "Typography Options"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:486
+#: fsthemes/admin/about-theme/fsmag-about.php:486
 msgid "No. of Widgets"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:487
+#: fsthemes/admin/about-theme/fsmag-about.php:487
 msgid "9"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:488
+#: fsthemes/admin/about-theme/fsmag-about.php:488
 msgid "10+"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:492
+#: fsthemes/admin/about-theme/fsmag-about.php:492
 msgid "Unlimited Colors"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:498
+#: fsthemes/admin/about-theme/fsmag-about.php:498
 msgid "Footer Copyright"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:504
+#: fsthemes/admin/about-theme/fsmag-about.php:504
 msgid "WooCommerce Compatible"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:510
+#: fsthemes/admin/about-theme/fsmag-about.php:510
 msgid "Contact Form 7 Plugin Compatible"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:516
+#: fsthemes/admin/about-theme/fsmag-about.php:516
 msgid "Responsive Design"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:522
+#: fsthemes/admin/about-theme/fsmag-about.php:522
 msgid "SEO Optimized"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:527
+#: fsthemes/admin/about-theme/fsmag-about.php:527
 msgid "Webpage Boxed/Full width Options"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:533
+#: fsthemes/admin/about-theme/fsmag-about.php:533
 msgid "Child Theme Support"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:539
+#: fsthemes/admin/about-theme/fsmag-about.php:539
 msgid "Quality Code"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:545
+#: fsthemes/admin/about-theme/fsmag-about.php:545
 msgid "Category Color Options"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:553
+#: fsthemes/admin/about-theme/fsmag-about.php:553
 msgid "Download"
 msgstr ""
 
-#: sparklethemes/admin/about-theme/fsmag-about.php:556
+#: fsthemes/admin/about-theme/fsmag-about.php:556
 msgid "Buy Pro"
 msgstr ""
 

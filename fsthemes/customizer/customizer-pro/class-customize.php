@@ -62,7 +62,7 @@ final class fsmag_Customize {
 	public function sections( $manager ) {
 
 		// Load custom sections.
-		require_once( trailingslashit( get_template_directory() ) . 'sparklethemes/customizer/customizer-pro/section-pro.php' );
+		require_once( trailingslashit( get_template_directory() ) . 'fsthemes/customizer/customizer-pro/section-pro.php' );
 
 		// Register custom section types.
 		$manager->register_section_type( 'fsmag_Customize_Section_Pro' );
@@ -91,9 +91,9 @@ final class fsmag_Customize {
 	 */
 	public function enqueue_control_scripts() {
 
-		wp_enqueue_script( 'fsmag-customize-controls', trailingslashit( get_template_directory_uri() ) . 'sparklethemes/customizer/customizer-pro/customize-controls.js', array( 'customize-controls' ) );
+		wp_enqueue_script( 'fsmag-customize-controls', trailingslashit( get_template_directory_uri() ) . 'fsthemes/customizer/customizer-pro/customize-controls.js', array( 'customize-controls' ) );
 
-		wp_enqueue_style( 'fsmag-customize-controls', trailingslashit( get_template_directory_uri() ) . 'sparklethemes/customizer/customizer-pro/customize-controls.css' );
+		wp_enqueue_style( 'fsmag-customize-controls', trailingslashit( get_template_directory_uri() ) . 'fsthemes/customizer/customizer-pro/customize-controls.css' );
 	}
 }
 
