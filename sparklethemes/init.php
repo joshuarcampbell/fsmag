@@ -2,7 +2,7 @@
 /**
  * Main Custom admin functions area
  *
- * @since SparklewpThemes
+ * @since fsthemeswpThemes
  *
  * @param Editorial_Mag
  *

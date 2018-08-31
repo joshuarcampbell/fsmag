@@ -30,7 +30,7 @@
 				if(!empty( $social_media ) && $social_media == 'enable'){
 			?>
 				<div class="footer-social">
-					<div class="sparkle-wrapper">
+					<div class="fsthemes-wrapper">
 						<?php if( !empty( $facebook ) ) { ?>
 							<div class="footer-social-block">
 								<a href="<?php echo esc_url( $facebook ); ?>" class="facebook">
@@ -89,7 +89,7 @@
 			<!-- Main Footer Area -->
 			<?php if( is_active_sidebar( 'footer-1' ) || is_active_sidebar( 'footer-2' ) || is_active_sidebar( 'footer-3' ) || is_active_sidebar( 'footer-4' ) ){ ?>
 				<div class="bottom-footer column-4">
-					<div class="sparkle-wrapper">
+					<div class="fsthemes-wrapper">
 						<div class="bottom-footer-block">
 							<?php 
 							    if( is_active_sidebar( 'footer-1' ) ){
@@ -122,7 +122,7 @@
 				</div>
 			<?php } ?>
 			<div class="copyright-footer">
-				<div class="sparkle-wrapper">
+				<div class="fsthemes-wrapper">
 					<div class="copyright-block">
 						<?php do_action( 'fsmag_copyright', 5 ); ?>
 					</div>

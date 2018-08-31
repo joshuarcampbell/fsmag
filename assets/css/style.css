@@ -615,7 +615,7 @@ a {
   display: table;
   table-layout: fixed; }
 
-.sparkle-wrapper:before, .sparkle-wrapper:after {
+.fsthemes-wrapper:before, .fsthemes-wrapper:after {
   content: "";
   display: table;
   table-layout: fixed; }
@@ -640,7 +640,7 @@ a {
   display: table;
   table-layout: fixed; }
 
-.clearfix:after, .sparkle-wrapper:after, .entry-content:after, .comment-content:after, .site-content:after, .site-footer:after {
+.clearfix:after, .fsthemes-wrapper:after, .entry-content:after, .comment-content:after, .site-content:after, .site-footer:after {
   clear: both; }
 
 /*--------------------------------------------------------------
@@ -895,7 +895,7 @@ COMMENT SECTION
 a.comment-reply-link:visited, a.comment-reply-link:focus {
   color: #fff; }
 
-.sparkle-preloader {
+.fsthemes-preloader {
   position: fixed;
   top: 0;
   left: 0;
@@ -903,7 +903,7 @@ a.comment-reply-link:visited, a.comment-reply-link:focus {
   height: 100%;
   background: #fff;
   z-index: 99999999; }
-  .sparkle-preloader img {
+  .fsthemes-preloader img {
     position: absolute;
     top: 0;
     right: 0;
@@ -1001,7 +1001,7 @@ a.comment-reply-link:visited, a.comment-reply-link:focus {
   padding-top: 20px;
   margin-bottom: 30px; }
 
-.sparkle-wrapper {
+.fsthemes-wrapper {
   margin: 0 auto;
   width: 1170px; }
 
@@ -1164,7 +1164,7 @@ body.has-title-bg .site-header {
   height: 100%;
   z-index: -1; }
 
-.has-bgimg .sparkle-wrapper {
+.has-bgimg .fsthemes-wrapper {
   height: 100%; }
 
 .page-header.has-bgimg .page-title {
@@ -1201,15 +1201,15 @@ body.has-title-bg .site-header {
 /*======================================
 LIGHT BOX DESIGN
 ======================================*/
-.sparkle-gallery-lightbox a {
+.fsthemes-gallery-lightbox a {
   display: inline-block;
   width: 31.33%;
   margin-right: 2%;
   margin-bottom: 20px;
   vertical-align: bottom; }
-  .sparkle-gallery-lightbox a:nth-child(3n) {
+  .fsthemes-gallery-lightbox a:nth-child(3n) {
     margin-right: 0; }
-  .sparkle-gallery-lightbox a:hover {
+  .fsthemes-gallery-lightbox a:hover {
     opacity: 0.7;
     filter: alpha(opacity=70); }
 
@@ -1505,7 +1505,7 @@ MAIN NAVIGATION SECTION
   border-left: 1px solid #e5e5e5;
   position: relative; }
 
-.nav-wrap .sparkle-wrapper, .sticky-menu .sparkle-wrapper {
+.nav-wrap .fsthemes-wrapper, .sticky-menu .fsthemes-wrapper {
   transform: translateZ(0);
   -webkit-transform: translateZ(0);
   -moz-transform: translateZ(0);
@@ -1731,7 +1731,7 @@ HEADER WITH BACKGROUND IMAGE
   padding-left: 20px;
   border-radius: 5px; }
 
-.site-header.header-bgimg .nav-wrap .sparkle-wrapper {
+.site-header.header-bgimg .nav-wrap .fsthemes-wrapper {
   width: auto; }
 
 .header-bgimg .main-navigation ul li a {
@@ -1839,7 +1839,7 @@ NEWS TICKER
 .site-header + .news-ticker {
   margin: 15px 0; }
 
-.news-ticker .sparkle-wrapper {
+.news-ticker .fsthemes-wrapper {
   position: relative; }
 
 .news-ticker-title {
@@ -2038,7 +2038,7 @@ BANNER TWO AND THREE POST SLIDER
 .banner-section.two-post-slider, .banner-section.three-post-slider {
   margin-bottom: 80px; }
 
-.banner-section.two-post-slider .sparkle-wrapper, .banner-section.three-post-slider .sparkle-wrapper {
+.banner-section.two-post-slider .fsthemes-wrapper, .banner-section.three-post-slider .fsthemes-wrapper {
   width: 100%; }
 
 .two-post-slider .banner-wrap, .three-post-slider .banner-wrap {
@@ -3490,26 +3490,26 @@ SINGLE PAGE AND POST
 .single .entry-content a {
   color: #1a40a9; }
 
-.sparkle-author-box {
+.fsthemes-author-box {
   background: #333;
   padding: 20px;
   position: relative;
   margin-bottom: 30px; }
-  .sparkle-author-box::before {
+  .fsthemes-author-box::before {
     content: "";
     display: table; }
-  .sparkle-author-box::after {
+  .fsthemes-author-box::after {
     content: "";
     display: table;
     clear: both; }
-  .sparkle-author-box .sparkle-author-image {
+  .fsthemes-author-box .fsthemes-author-image {
     float: left;
     width: 200px;
     line-height: 0;
     height: 200px;
     border-radius: 100%;
     position: relative; }
-    .sparkle-author-box .sparkle-author-image::before {
+    .fsthemes-author-box .fsthemes-author-image::before {
       content: "";
       border: 1px solid #555;
       position: absolute;
@@ -3518,24 +3518,24 @@ SINGLE PAGE AND POST
       bottom: -5px;
       left: -5px;
       border-radius: 100%; }
-    .sparkle-author-box .sparkle-author-image img {
+    .fsthemes-author-box .fsthemes-author-image img {
       border-radius: 100%; }
-  .sparkle-author-box .sparkle-author-details {
+  .fsthemes-author-box .fsthemes-author-details {
     float: left;
     width: calc(100% - 200px);
     color: #fff;
     padding-left: 30px; }
 
-.sparkle-author-details .author-name {
+.fsthemes-author-details .author-name {
   font-size: 20px;
   font-weight: 700;
   display: block;
   line-height: 1.3; }
 
-.sparkle-author-details .author-designation {
+.fsthemes-author-details .author-designation {
   color: #6a75c3;
   display: inline-block; }
-  .sparkle-author-details .author-designation::before {
+  .fsthemes-author-details .author-designation::before {
     content: "--"; }
 
 .author-social {
@@ -3568,7 +3568,7 @@ SINGLE PAGE AND POST
     .author-social li a:hover {
       color: #fff; }
 
-.sparkle-author-details .author-desc {
+.fsthemes-author-details .author-desc {
   font-style: italic;
   color: #bbb;
   margin-top: 15px; }
@@ -3580,7 +3580,7 @@ SINGLE PAGE AND POST
   background: #fff;
   padding-top: 60px; }
 
-.single .sparkle-plx-header .parallax-image {
+.single .fsthemes-plx-header .parallax-image {
   position: absolute;
   top: 0;
   left: 0;
@@ -3590,7 +3590,7 @@ SINGLE PAGE AND POST
   max-height: 100%;
   height: 100vh;
   overflow: hidden; }
-  .single .sparkle-plx-header .parallax-image::before {
+  .single .fsthemes-plx-header .parallax-image::before {
     content: "";
     background: rgba(0, 0, 0, 0.35);
     position: absolute;
@@ -3598,7 +3598,7 @@ SINGLE PAGE AND POST
     height: 100%;
     top: 0;
     left: 0; }
-  .single .sparkle-plx-header .parallax-image img {
+  .single .fsthemes-plx-header .parallax-image img {
     position: fixed;
     top: 0;
     left: 0;

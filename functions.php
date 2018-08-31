@@ -227,7 +227,7 @@ function fsmag_widgets_init() {
 	) );
 
 	if ( is_customize_preview() ) {
-	    $fsmag_home_description = sprintf( esc_html__( 'Displays widgets on home page main content area.%1$s Note : Please go to %2$s "Static Front Page"%3$s setting, Select "A static page" then "Front page" and "Posts page" to show added widgets', 'fsmag' ), '<br />','<b><a class="sparkle-customizer" data-section="static_front_page" style="cursor: pointer">','</a></b>' );
+	    $fsmag_home_description = sprintf( esc_html__( 'Displays widgets on home page main content area.%1$s Note : Please go to %2$s "Static Front Page"%3$s setting, Select "A static page" then "Front page" and "Posts page" to show added widgets', 'fsmag' ), '<br />','<b><a class="fsthemes-customizer" data-section="static_front_page" style="cursor: pointer">','</a></b>' );
 	}
 	else{
 	    $fsmag_home_description = esc_html__( 'Displays widgets on Front/Home page. Note : Please go to Setting => Reading, Select "A static page" then "Front page" and "Posts page" to show added widgets', 'fsmag' );

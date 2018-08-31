@@ -10,7 +10,7 @@
 get_header(); ?>
 
 <div class="home-right-side">
-	<div class="sparkle-wrapper">
+	<div class="fsthemes-wrapper">
 		<div id="primary" class="home-main-content content-area">
 			<main id="main" class="site-main">
 				<?php

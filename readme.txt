@@ -2,7 +2,7 @@
 
 fsmag is a ultra fast clean and best  responsive free WordPress magazine, fsmag specially designed for magazine, newspaper, news portals and editorial style websites.  It comes with the flat, minimalist, magazine style homepage Design with post banner slider and latest posts, and different custom widget design layout. Awesome design for categories, tags, archive pages with multiple sidebars and Ads, widgets. the theme has 9+ different drag and drop widget and 10+ widget area that allows adding many section as you want with various beautifully designed layouts suitable for websites. fsmag theme is completely built on customizer which allows you to customize most of the theme settings easily with live previews, Editorial Mag supports many 3rd party plugins, compatible with Jetpack, Contact Form 7, WooCommerce, AccessPress Social Share, AccessPress Social Counter and many more.
 
-Contributors: sparklewpthemes
+Contributors: fsthemeswpthemes
 
 Tags: right-sidebar, left-sidebar, custom-background, custom-menu, custom-colors, sticky-post, threaded-comments, translation-ready, featured-images, theme-options, grid-layout, footer-widgets, news, blog, e-commerce, footer-widgets
 
@@ -30,7 +30,7 @@ fsmag is based on Underscores http://underscores.me/, (C) 2012-2014 Automattic, 
 Unless otherwise specified, all the theme files, scripts and images are licensed under GNU General Public License Version 3 or later.
 License: GNU General Public License, version 3 (GPLv3) or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
-Editorial Mag WordPress Theme, Copyright 2016 SparklewpThemes
+Editorial Mag WordPress Theme, Copyright 2016 fsthemeswpThemes
 Editorial Mag is distributed under the terms of the GNU General Public License v3
 The exceptions to license are as follows:
 

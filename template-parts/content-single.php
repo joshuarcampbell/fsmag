@@ -56,11 +56,11 @@ $image = wp_get_attachment_image_src( get_post_thumbnail_id( get_the_ID() ), 'fs
 	$reporter = get_theme_mod('fsmag_author_title','News Reporter');
 	if($author == 'enable' ){ 
 ?>
-	<div class="sparkle-author-box">
-		<div class="sparkle-author-image">
+	<div class="fsthemes-author-box">
+		<div class="fsthemes-author-image">
 			<?php echo wp_kses_post( get_avatar( get_the_author_meta('email'), 260) ); ?>
 		</div>
-		<div class="sparkle-author-details">
+		<div class="fsthemes-author-details">
 			<span class="author-name">
 				<?php the_author_posts_link(); ?>
 			</span>

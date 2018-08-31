@@ -126,7 +126,7 @@ add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles' );
 
 	<header id="masthead" class="site-header header-bgimg <?php if ( has_header_image() ) { echo 'headerimage'; } ?>" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
 		<div class="sticky-menu">
-			<div class="sparkle-wrapper">
+			<div class="fsthemes-wrapper">
 				<nav class="main-navigation">
 					<div class="toggle-button">
 						<span class="toggle-bar1"></span>
@@ -146,7 +146,7 @@ add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles' );
 		</div><!-- STICKY MENU -->
 
 		<div class="top-header">
-			<div class="sparkle-wrapper">
+			<div class="fsthemes-wrapper">
 				<div class="top-nav">
 					<?php
 						wp_nav_menu( array(
@@ -187,7 +187,7 @@ add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles' );
 			</div>
 		</div> <!-- TOP HEADER -->
 		<div class="bottom-header">
-			<div class="sparkle-wrapper">
+			<div class="fsthemes-wrapper">
 				<div class="site-logo site-branding">
 					<?php the_custom_logo(); ?>
 					<h1 class="site-title">
@@ -215,7 +215,7 @@ add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles' );
 		</div> <!-- BOTTOM HEADER -->
 
 		<div class="nav-wrap nav-left-align">
-			<div class="sparkle-wrapper">
+			<div class="fsthemes-wrapper">
 				<nav class="main-navigation">
 					<div class="toggle-button">
 						<span class="toggle-bar1"></span>

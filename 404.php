@@ -9,7 +9,7 @@
 
 get_header(); ?>	
 	<div class="site-content home-no-side">
-		<div class="sparkle-wrapper">
+		<div class="fsthemes-wrapper">
 			<div class="home-main-content">
 				<section class="error-404 not-found">
 

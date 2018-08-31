@@ -105,7 +105,7 @@ msgid "Designed & Developed"
 msgstr ""
 
 #: footer.php:130
-msgid "Sparkle Themes"
+msgid "fsthemes Themes"
 msgstr ""
 
 #: functions.php:69
@@ -1036,19 +1036,19 @@ msgid ""
 "you to customize most of the theme settings easily with live previews, "
 "Editorial Mag supports many 3rd party plugins, compatible with Jetpack, "
 "Contact Form 7, AccessPress Social Share, AccessPress Social Counter and "
-"many more. Official Support Forum: https://www.sparklewpthemes.com/support/ "
-"Full Demo: http://demo.sparklewpthemes.com/fsmag/demos/ and Docs: "
-"http://docs.sparklewpthemes.com/fsmag/"
+"many more. Official Support Forum: https://www.fsthemeswpthemes.com/support/ "
+"Full Demo: http://demo.fsthemeswpthemes.com/fsmag/demos/ and Docs: "
+"http://docs.fsthemeswpthemes.com/fsmag/"
 msgstr ""
 
 #. URI of the theme
-msgid "https://www.sparklewpthemes.com/wordpress-themes/fsmag"
+msgid "https://www.fsthemeswpthemes.com/wordpress-themes/fsmag"
 msgstr ""
 
 #. Author of the theme
-msgid "sparklewpthemes"
+msgid "fsthemeswpthemes"
 msgstr ""
 
 #. Author URI of the theme
-msgid "http://sparklewpthemes.com"
+msgid "http://fsthemeswpthemes.com"
 msgstr ""

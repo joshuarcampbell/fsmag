@@ -12,7 +12,7 @@
 	.sticky-menu {
 		width: 100%;
 	}
-	.sparkle-wrapper {
+	.fsthemes-wrapper {
 		width: 100%;
 		padding-left: 10px;
 		padding-right: 10px;
@@ -34,8 +34,8 @@
 	.top-right {
 		width: 45%;
 	}
-	.banner-section.two-post-slider .sparkle-wrapper, 
-	.banner-section.three-post-slider .sparkle-wrapper {
+	.banner-section.two-post-slider .fsthemes-wrapper, 
+	.banner-section.three-post-slider .fsthemes-wrapper {
 		padding-left: 0;
 		padding-right: 0;
 	}
@@ -305,7 +305,7 @@
 	.main-navigation .children li a {
 		border-bottom-color: rgba(255,255,255,0.1);
 	}
-	.nav-wrap .sparkle-wrapper, .sticky-menu .sparkle-wrapper {
+	.nav-wrap .fsthemes-wrapper, .sticky-menu .fsthemes-wrapper {
 	    transform: none;
 	    -webkit-transform: none;
 	    -moz-transform: none;
@@ -380,7 +380,7 @@
 	.has-mega-menu ul.sub-menu li {
 	    width: 32.66%;
 	}
-	.sparkle-preloader img {
+	.fsthemes-preloader img {
 		width: 100%;
 	}
 
@@ -1047,25 +1047,25 @@
 	/*===================================
 	SINGLE PAGE
 	===================================*/
-	.sparkle-author-box .sparkle-author-image {
+	.fsthemes-author-box .fsthemes-author-image {
 	    float: none;
 	    margin-bottom: 20px;
 	    margin-left: auto;
 	    margin-right: auto;
 	}
-	.sparkle-author-box .sparkle-author-details {
+	.fsthemes-author-box .fsthemes-author-details {
 	    float: none;
 	    width: 100%;
 	    padding-left: 0;
 	    text-align: center;
 	}
-	.sparkle-gallery-lightbox a {
+	.fsthemes-gallery-lightbox a {
 	    width: 48%;
 	}
-	.sparkle-gallery-lightbox a:nth-child(3n) {
+	.fsthemes-gallery-lightbox a:nth-child(3n) {
 		margin-right: 2%;
 	}
-	.sparkle-gallery-lightbox a:nth-child(2n) {
+	.fsthemes-gallery-lightbox a:nth-child(2n) {
 	    margin-right: 0;
 	}
 

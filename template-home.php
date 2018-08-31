@@ -10,7 +10,7 @@ get_header(); ?>
 	
 	<?php if( is_active_sidebar( 'home-1' ) ){ ?>
 		<section class="bannersection fullwidthsection">
-			<div class="sparkle-wrapper">
+			<div class="fsthemes-wrapper">
 				<?php dynamic_sidebar( 'home-1' ); ?>				
 			</div>
 		</section> <!-- Full Width Top Widget Area -->
@@ -28,7 +28,7 @@ get_header(); ?>
 	?>
 
 	<div class="site-content home-<?php echo esc_attr( $post_sidebar ); ?>-side bannersection">
-		<div class="sparkle-wrapper">			
+		<div class="fsthemes-wrapper">			
 			<div class="home-main-content content-area">
 				<?php 
 				    if( is_active_sidebar( 'home-2' ) ){
@@ -43,7 +43,7 @@ get_header(); ?>
 
 	<?php if( is_active_sidebar( 'home-3' ) ){ ?>
 		<section class="bannersection fullwidthsection">
-			<div class="sparkle-wrapper">
+			<div class="fsthemes-wrapper">
 				<?php dynamic_sidebar( 'home-3' ); ?>				
 			</div>
 		</section> <!-- Full Width Top Widget Area -->

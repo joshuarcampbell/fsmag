@@ -2,7 +2,7 @@
 /**
  * About page of fsmag Theme
  *
- * @package Sparkle Themes
+ * @package fsthemes Themes
  * @subpackage fsmag_Mag
  * @since 1.0.6
  */
@@ -121,13 +121,13 @@ class fsmag_About {
 
 		<p class="fsmag-actions">		
 
-			<a href="<?php echo esc_url( apply_filters( 'fsmag_pro_theme_url', 'https://www.sparklewpthemes.com/wordpress-themes/fsmagpro' ) ); ?>" class="button button-primary docs" target="_blank"><?php esc_html_e( 'View PRO version', 'fsmag' ); ?></a>
+			<a href="<?php echo esc_url( apply_filters( 'fsmag_pro_theme_url', 'https://www.fsthemeswpthemes.com/wordpress-themes/fsmagpro' ) ); ?>" class="button button-primary docs" target="_blank"><?php esc_html_e( 'View PRO version', 'fsmag' ); ?></a>
 
-			<a href="<?php echo esc_url( apply_filters( 'fsmag_pro_theme_url', 'http://demo.sparklewpthemes.com/fsmagpro/demos/' ) ); ?>" class="button button-primary docs" target="_blank"><?php esc_html_e( 'View PRO Demo', 'fsmag' ); ?></a>
+			<a href="<?php echo esc_url( apply_filters( 'fsmag_pro_theme_url', 'http://demo.fsthemeswpthemes.com/fsmagpro/demos/' ) ); ?>" class="button button-primary docs" target="_blank"><?php esc_html_e( 'View PRO Demo', 'fsmag' ); ?></a>
 
-			<a href="<?php echo esc_url( 'https://www.sparklewpthemes.com/wordpress-themes/fsmag/' ); ?>" class="button button-secondary" target="_blank"><?php esc_html_e( 'Theme Info', 'fsmag' ); ?></a>
+			<a href="<?php echo esc_url( 'https://www.fsthemeswpthemes.com/wordpress-themes/fsmag/' ); ?>" class="button button-secondary" target="_blank"><?php esc_html_e( 'Theme Info', 'fsmag' ); ?></a>
 
-			<a href="<?php echo esc_url( apply_filters( 'fsmag_pro_theme_url', 'http://demo.sparklewpthemes.com/fsmag/demos/' ) ); ?>" class="button button-secondary docs" target="_blank"><?php esc_html_e( 'View Demo', 'fsmag' ); ?></a>
+			<a href="<?php echo esc_url( apply_filters( 'fsmag_pro_theme_url', 'http://demo.fsthemeswpthemes.com/fsmag/demos/' ) ); ?>" class="button button-secondary docs" target="_blank"><?php esc_html_e( 'View Demo', 'fsmag' ); ?></a>
 
 
 			<a href="<?php echo esc_url( apply_filters( 'fsmag_pro_theme_url', 'https://wordpress.org/support/theme/fsmag/reviews/?filter=5' ) ); ?>" class="button button-secondary docs" target="_blank"><?php esc_html_e( 'Rate this theme', 'fsmag' ); ?></a>
@@ -184,19 +184,19 @@ class fsmag_About {
 					<div class="col">
 						<h3><?php esc_html_e( 'Need more features ?', 'fsmag' ); ?></h3>
 						<p><?php esc_html_e( 'Upgrade to PRO version for more exciting features.', 'fsmag' ) ?></p>
-						<p><a href="<?php echo esc_url( 'https://www.sparklewpthemes.com/wordpress-themes/fsmagpro/' ); ?>" class="button button-secondary" target="_blank"><?php esc_html_e( 'View PRO version', 'fsmag' ); ?></a></p>
+						<p><a href="<?php echo esc_url( 'https://www.fsthemeswpthemes.com/wordpress-themes/fsmagpro/' ); ?>" class="button button-secondary" target="_blank"><?php esc_html_e( 'View PRO version', 'fsmag' ); ?></a></p>
 					</div>
 
 					<div class="col">
 						<h3><?php esc_html_e( 'Have you need customization?', 'fsmag' ); ?></h3>
 						<p><?php esc_html_e( 'Please send message with your requirement.', 'fsmag' ) ?></p>
-						<p><a href="<?php echo esc_url( 'https://www.sparklewpthemes.com/request-wordpress-customization-with-our-dedicated-support-team/' ); ?>" class="button button-secondary" target="_blank"><?php esc_html_e( 'Customization', 'fsmag' ); ?></a></p>
+						<p><a href="<?php echo esc_url( 'https://www.fsthemeswpthemes.com/request-wordpress-customization-with-our-dedicated-support-team/' ); ?>" class="button button-secondary" target="_blank"><?php esc_html_e( 'Customization', 'fsmag' ); ?></a></p>
 					</div>
 
 					<div class="col">
 						<h3><?php esc_html_e( 'Documentation', 'fsmag' ); ?></h3>
 						<p><?php esc_html_e( 'Please view our documentation page to setup the theme.', 'fsmag' ) ?></p>
-						<p><a href="<?php echo esc_url( 'http://docs.sparklewpthemes.com/fsmag/' ); ?>" class="button button-secondary" target="_blank"><?php esc_html_e( 'Documentation', 'fsmag' ); ?></a></p>
+						<p><a href="<?php echo esc_url( 'http://docs.fsthemeswpthemes.com/fsmag/' ); ?>" class="button button-secondary" target="_blank"><?php esc_html_e( 'Documentation', 'fsmag' ); ?></a></p>
 					</div>
 
 					<div class="col">
@@ -208,7 +208,7 @@ class fsmag_About {
 					<div class="col">
 						<h3><?php esc_html_e( 'Got theme support question?', 'fsmag' ); ?></h3>
 						<p><?php esc_html_e( 'Please put it in our dedicated support forum.', 'fsmag' ) ?></p>
-						<p><a href="<?php echo esc_url( 'https://www.sparklewpthemes.com/support/' ); ?>" class="button button-secondary" target="_blank"><?php esc_html_e( 'Support', 'fsmag' ); ?></a></p>
+						<p><a href="<?php echo esc_url( 'https://www.fsthemeswpthemes.com/support/' ); ?>" class="button button-secondary" target="_blank"><?php esc_html_e( 'Support', 'fsmag' ); ?></a></p>
 					</div>
 
 					<div class="col">
@@ -256,7 +256,7 @@ class fsmag_About {
 					<?php
 						// Set the argument array with author name.
 						$args = array(
-							'author' => 'sparklewpthemes',
+							'author' => 'fsthemeswpthemes',
 						);
 						// Set the $request array.
 						$request = array(
@@ -553,7 +553,7 @@ class fsmag_About {
 							<a href="<?php echo esc_url( apply_filters( 'fsmag_theme_url', 'https://wordpress.org/themes/fsmag/' ) ); ?>" class="button button-secondary docs" target="_blank"><?php esc_html_e( 'Download', 'fsmag' ); ?></a>
 						</td>
 						<td class="btn-wrapper">
-							<a href="<?php echo esc_url( apply_filters( 'fsmag_pro_theme_url', 'https://www.sparklewpthemes.com/wordpress-themes/fsmagpro/' ) ); ?>" class="button button-secondary docs" target="_blank"><?php esc_html_e( 'Buy Pro', 'fsmag' ); ?></a>
+							<a href="<?php echo esc_url( apply_filters( 'fsmag_pro_theme_url', 'https://www.fsthemeswpthemes.com/wordpress-themes/fsmagpro/' ) ); ?>" class="button button-secondary docs" target="_blank"><?php esc_html_e( 'Buy Pro', 'fsmag' ); ?></a>
 						</td>
 					</tr>
 				</tbody>

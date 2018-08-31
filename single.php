@@ -23,7 +23,7 @@ get_header(); ?>
     }
 ?>
 	<div class="home-<?php echo esc_attr( $post_sidebar ); ?>-side">
-		<div class="sparkle-wrapper">
+		<div class="fsthemes-wrapper">
 			<div id="primary" class="home-main-content content-area">
 				<main id="main" class="site-main">
 					<header class="page-header">

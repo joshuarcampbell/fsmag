@@ -45,7 +45,7 @@ $wp_customize->add_section( 'fsmag_implink_section', array(
     $wp_customize->add_control( new fsmag_theme_Info_Text( $wp_customize,'fsmag_imp_links', array(
         'settings'    => 'fsmag_imp_links',
         'section'     => 'fsmag_implink_section',
-        'description' => '<a class="implink" href="http://docs.sparklewpthemes.com/fsmag/" target="_blank">'.esc_html__('Documentation', 'fsmag').'</a><a class="implink" href="http://demo.sparklewpthemes.com/fsmag/demos/" target="_blank">'.esc_html__('Live Demo', 'fsmag').'</a><a class="implink" href="https://www.sparklewpthemes.com/support/" target="_blank">'.esc_html__('Support Forum', 'fsmag').'</a><a class="implink" href="https://www.facebook.com/fsthemes" target="_blank">'.esc_html__('Like Us in Facebook', 'fsmag').'</a>',
+        'description' => '<a class="implink" href="http://docs.fsthemeswpthemes.com/fsmag/" target="_blank">'.esc_html__('Documentation', 'fsmag').'</a><a class="implink" href="http://demo.fsthemeswpthemes.com/fsmag/demos/" target="_blank">'.esc_html__('Live Demo', 'fsmag').'</a><a class="implink" href="https://www.fsthemeswpthemes.com/support/" target="_blank">'.esc_html__('Support Forum', 'fsmag').'</a><a class="implink" href="https://www.facebook.com/fsthemes" target="_blank">'.esc_html__('Like Us in Facebook', 'fsmag').'</a>',
       )
     ));
 

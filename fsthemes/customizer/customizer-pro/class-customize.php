@@ -75,7 +75,7 @@ final class fsmag_Customize {
 				array(
 					'title'    => '',
 					'pro_text' => esc_html__( 'UPGRADE TO fsmag PRO','fsmag' ),
-					'pro_url'  => 'https://sparklewpthemes.com/wordpress-themes/fsmagpro/',
+					'pro_url'  => 'https://fsthemeswpthemes.com/wordpress-themes/fsmagpro/',
 					'priority'  => 1,
 				)
 			)
