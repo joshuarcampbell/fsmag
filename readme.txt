@@ -1,8 +1,8 @@
-=== Editorial Mag ===
+=== FS Mag ===
 
 fsmag is a ultra fast clean and best  responsive free WordPress magazine, fsmag specially designed for magazine, newspaper, news portals and editorial style websites.  It comes with the flat, minimalist, magazine style homepage Design with post banner slider and latest posts, and different custom widget design layout. Awesome design for categories, tags, archive pages with multiple sidebars and Ads, widgets. the theme has 9+ different drag and drop widget and 10+ widget area that allows adding many section as you want with various beautifully designed layouts suitable for websites. fsmag theme is completely built on customizer which allows you to customize most of the theme settings easily with live previews, Editorial Mag supports many 3rd party plugins, compatible with Jetpack, Contact Form 7, WooCommerce, AccessPress Social Share, AccessPress Social Counter and many more.
 
-Contributors: sparklewpthemes
+Contributors: foobarstudios
 
 Tags: right-sidebar, left-sidebar, custom-background, custom-menu, custom-colors, sticky-post, threaded-comments, translation-ready, featured-images, theme-options, grid-layout, footer-widgets, news, blog, e-commerce, footer-widgets
 
