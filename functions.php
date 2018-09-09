@@ -63,6 +63,17 @@ function theme_customize_register( $wp_customize ) {
       'label'   => esc_html__( 'Accent color', 'theme' ),
     ) ) );
 
+	// Word Tag Hover Font Color
+	$wp_customize->add_setting( 'tag_hover_color', array(
+		'default' => '',
+		'transport' => 'refresh',
+	) );
+
+	$wp_customize->add_control ( new WP_Customize_Color_Control( $wp_customize, 'tag_hover_color', array(
+		'section' => 'colors',
+		'label' => esc_html__( 'Word Tag Hover Font Color', 'theme'),
+	) ) );
+
     // Border color
     $wp_customize->add_setting( 'border_color', array(
       'default'   => '',
