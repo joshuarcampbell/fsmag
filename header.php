@@ -88,7 +88,16 @@ function theme_get_customizer_css()
     if (!empty($tag_hover_color)) {
         ?>
 			#emag-tags a:hover, .widget_tag_cloud .tagcloud a:hover {
-				color: <?php echo $tag_hover_color; ?> !important;
+				background-color: <?php echo $tag_hover_color; ?>;
+			}
+			<?php
+}
+
+    $section_accent_color = get_theme_mod('section_color', '');
+    if (!empty($section_accent_color)) {
+        ?>
+			.widget.emag_magazine_tabbed ul li.ui-state-active:last-child, .widget.emag_magazine_sidebar_category_tabs_posts ul li.ui-state-active:last-child {
+				border-bottom: 2px solid <?php echo $section_accent_color; ?>;
 			}
 			<?php
 }
@@ -110,7 +119,7 @@ function theme_get_customizer_css()
 
 function theme_enqueue_styles()
 {
-//  wp_enqueue_style( 'theme-styles', get_stylesheet_uri() ); // This is where you enqueue your theme's main stylesheet
+    wp_enqueue_style('theme-styles', get_stylesheet_uri()); // This is where you enqueue your theme's main stylesheet
     $custom_css = theme_get_customizer_css();
     wp_add_inline_style('theme-styles', $custom_css);
 }

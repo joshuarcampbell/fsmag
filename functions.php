@@ -85,6 +85,17 @@ function theme_customize_register( $wp_customize ) {
       'label'   => esc_html__( 'Border color', 'theme' ),
     ) ) );
 
+// Section Color
+	$wp_customize->add_setting( 'section_color', array(
+		'default' => '',
+		'transport' => 'refresh',
+	) );
+
+	$wp_customize->add_control ( new WP_Customize_Color_Control( $wp_customize, 'section_color', array(
+		'section' => 'colors',
+		'label' => esc_html__( 'Section Accent Color', 'theme' ),
+	) ) );
+
     // Sidebar background
     $wp_customize->add_setting( 'sidebar_background', array(
       'default'   => '',
@@ -94,7 +105,7 @@ function theme_customize_register( $wp_customize ) {
     $wp_customize->add_control( new WP_Customize_Color_Control( $wp_customize, 'sidebar_background', array(
       'section' => 'colors',
       'label'   => esc_html__( 'Sidebar Background', 'theme' ),
-    ) ) );
+	) ) );
   }
 
   add_action( 'customize_register', 'theme_customize_register' );
