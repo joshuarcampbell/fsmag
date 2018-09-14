@@ -47,16 +47,18 @@
 				$('.widget.emag_magazine_tabbed ul li.ui-state-active:last-child, .widget.emag_magazine_sidebar_category_tabs_posts ul li.ui-state-active:last-child').css({
 					'border-bottom': '2px solid #fff'
 				});
+				$('button, input[type="submit"]').css({ 'background-color': '#fff000' });
 			} else {
 				$('.widget.emag_magazine_tabbed ul li.ui-state-active:last-child, .widget.emag_magazine_sidebar_category_tabs_posts ul li.ui-state-active:last-child').css({
 					'border-bottom': '2px solid',
 					'border-bottom-color': to
 				});
+				$('button, input[type="submit"]').css({ 'background-color': to });
 			}
 		});
 	});
 
-	// Tag Hover Color
+	// Accent Color
 	/*	wp.customize('tag_hover_color', function (value) {
 			value.bind(function (to) {
 				if ('blank' === to) {

@@ -69,20 +69,20 @@ function theme_get_customizer_css()
 		}
 	<?php
 }
-    $accent_color = get_theme_mod('accent_color', '');
+    /*$accent_color = get_theme_mod('accent_color', '');
     if (!empty($accent_color)) {
-        ?>
-      a:hover {
-        color: <?php echo $accent_color; ?>;
-        border-bottom-color: <?php echo $accent_color; ?>;
-      }
+    ?>
+    a:hover {
+    color: <?php echo $accent_color; ?>;
+    border-bottom-color: <?php echo $accent_color; ?>;
+    }
 
-      button,
-      input[type="submit"] {
-        background-color: <?php echo $accent_color; ?>;
-      }
-      <?php
-}
+    button,
+    input[type="submit"] {
+    background-color: <?php echo $accent_color; ?>;
+    }
+    <?php
+    }*/
 
     $section_accent_color = get_theme_mod('section_color', '');
     if (!empty($section_accent_color)) {
@@ -90,6 +90,15 @@ function theme_get_customizer_css()
 			.widget.emag_magazine_tabbed ul li.ui-state-active:last-child, .widget.emag_magazine_sidebar_category_tabs_posts ul li.ui-state-active:last-child {
 				border-bottom: 2px solid <?php echo $section_accent_color; ?>;
 			}
+			a:hover {
+        color: <?php echo $section_accent_color; ?>;
+        border-bottom-color: <?php echo $section_accent_color; ?>;
+      }
+
+      button,
+      input[type="submit"] {
+        background-color: <?php echo $section_accent_color; ?>;
+      }
 			<?php
 }
 
