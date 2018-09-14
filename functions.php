@@ -65,7 +65,7 @@ function theme_customize_register( $wp_customize ) {
 
 	// Word Tag Hover Font Color
 	$wp_customize->add_setting( 'tag_hover_color', array(
-		'default' => '',
+		'default' => '#000000',
 		'transport' => 'refresh',
 	) );
 
@@ -85,10 +85,10 @@ function theme_customize_register( $wp_customize ) {
       'label'   => esc_html__( 'Border color', 'theme' ),
     ) ) );
 
-// Section Color
+	// Section Color
 	$wp_customize->add_setting( 'section_color', array(
-		'default' => '',
-		'transport' => 'refresh',
+		'default' => '#ffffff',
+		'transport' => 'postMessage',
 	) );
 
 	$wp_customize->add_control ( new WP_Customize_Color_Control( $wp_customize, 'section_color', array(
@@ -409,7 +409,18 @@ function fsmag_scripts() {
 }
 add_action( 'wp_enqueue_scripts', 'fsmag_scripts' );
 
-
+// Live Preview Changes
+function fsmag_live_preview()
+{
+	wp_enqueue_script(
+		'live-theme-customizer',
+		get_template_directory_uri().'/assets/js/customizer.js',
+		array('jquery','customize-preview'),
+		'',
+		true
+	);
+}
+add_action('customize_preview_init','fsmag_live_preview');
 /**
  * Admin Panle Enqueue Scripts and Styles
  */

@@ -4740,8 +4740,8 @@ footer .emag-comm-content a {
   margin-right: 3px;
   padding: 5px 15px; }
 
-#emag-tags a:hover, .widget_tag_cloud .tagcloud a:hover {
-  background: #1a40a9; }
+/*#emag-tags a:hover, .widget_tag_cloud .tagcloud a:hover {
+  background: #1a40a9; }*/ 
 
 .emag-tag ul {
   margin: 0;

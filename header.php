@@ -64,9 +64,9 @@ function theme_get_customizer_css()
     $tag_hover_color = get_theme_mod('tag_hover_color', '');
     if (!empty($tag_hover_color)) {
         ?>
-	#emag-tags a:hover, .widget_tag_cloud .tagcloud a:hover {
-    background: <?php echo $tag_hover_color; ?> !important;
-}
+		#emag-tags a:hover {
+    	background: <?php echo $tag_hover_color; ?> !important;
+		}
 	<?php
 }
     $accent_color = get_theme_mod('accent_color', '');
@@ -82,15 +82,6 @@ function theme_get_customizer_css()
         background-color: <?php echo $accent_color; ?>;
       }
       <?php
-}
-
-    $tag_hover_color = get_theme_mod('tag_hover_color', '');
-    if (!empty($tag_hover_color)) {
-        ?>
-			#emag-tags a:hover, .widget_tag_cloud .tagcloud a:hover {
-				background-color: <?php echo $tag_hover_color; ?>;
-			}
-			<?php
 }
 
     $section_accent_color = get_theme_mod('section_color', '');
